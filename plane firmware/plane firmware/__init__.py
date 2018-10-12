@@ -1,0 +1,5 @@
+name="plane firmware"
+version="0.0.1"
+author="Hamza EL KAROUI"
+author_email="helkarou@gmail.com"
+description="firmware for raspberry pi autopilot"
